@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Score Calculation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="navbar-title">Recruitment Score System</div>
+        <ul class="navbar-links">
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="content">
+        <h1>Upload Files & Calculate Matching Score</h1>
+        <form id="upload-form">
+            <div class="upload-section">
+                <label for="expertFile">Upload Experts CSV:</label>
+                <input type="file" id="expertFile" accept=".csv">
+            </div>
+
+            <div class="upload-section">
+                <label for="candidateFile">Upload Candidates CSV:</label>
+                <input type="file" id="candidateFile" accept=".csv">
+            </div>
+
+            <div class="upload-section">
+                <label for="interviewerFile">Upload Interviewer CSV:</label>
+                <input type="file" id="interviewerFile" accept=".csv">
+            </div>
+
+            <button type="button" class="submit-btn" onclick="handleSubmit()">Submit</button>
+        </form>
+
+        <!-- Resultant Score Section -->
+        <div id="preview-section" class="hidden">
+            <h2>Preview</h2>
+            <div id="excel-preview" class="excel-preview"></div>
+        </div>
+    </div>
+
+    <!-- JavaScript for Interactivity -->
+    <script src="script.js"></script>
+</body>
+</html>

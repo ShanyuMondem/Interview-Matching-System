@@ -1,0 +1,101 @@
+Expert_ID,Expert_Name,Expert_Highest_Degree,Expert_Field_of_Study,Expert_Institution,Expert_Years_of_Experience,Expert_Role,Expert_Industry_Experience,Expert_Relevant_Technology,Expert_Publications_Count,Expert_Citation_Count,Expert_Key_Research_Areas,Expert_Patents_Held,Expert_Interview_Board_Experience,Expert_Professional_Organizations,Expert_Awards_and_Recognitions,Expert_Technical_Skills,Expert_Certifications,Expert_Continuing_Education,Expert_Feedback_Score,Expert_Success_Rate
+1,Expert_1,PhD,Mechanical Engineering,MIT,7,Professor,16,AI,132,621,Blockchain,0,Yes,ACM,Young Innovator,Python,None,Conferences,4.23,83.06
+2,Expert_2,BSc,Electrical Engineering,Harvard,25,Professor,7,AI,31,224,Blockchain,10,No,AAAI,Best Paper Award,C++,AWS Certified,Conferences,4.95,98.51
+3,Expert_3,BSc,Mechanical Engineering,Harvard,14,Professor,28,Cybersecurity,139,635,Quantum Computing,2,No,ACM,Young Innovator,Java,AWS Certified,Workshops,4.24,83.22
+4,Expert_4,MSc,Mechanical Engineering,Harvard,29,Professor,9,AI,55,89,Blockchain,6,Yes,ACM,Best Paper Award,C++,None,Workshops,4.73,82.58
+5,Expert_5,BSc,Mechanical Engineering,Harvard,23,Senior Engineer,8,AI,24,241,Machine Learning,0,No,IEEE,Best Paper Award,Java,AWS Certified,MOOC,4.88,85.07
+6,Expert_6,BSc,Electrical Engineering,Harvard,17,Research Scientist,34,Cybersecurity,77,668,Machine Learning,2,No,IEEE,Best Paper Award,Java,AWS Certified,MOOC,4.16,87.42
+7,Expert_7,PhD,Mechanical Engineering,Stanford,31,Research Scientist,12,Cybersecurity,14,794,Quantum Computing,1,No,AAAI,Best Paper Award,Java,Cisco Certified,Workshops,4.01,91.79
+8,Expert_8,MSc,Electrical Engineering,Stanford,11,Senior Engineer,19,Cybersecurity,76,472,Machine Learning,7,No,AAAI,Young Innovator,C++,AWS Certified,Conferences,4.44,80.09
+9,Expert_9,PhD,Mechanical Engineering,Stanford,17,Research Scientist,33,Cybersecurity,166,405,Quantum Computing,4,Yes,ACM,Young Innovator,Java,AWS Certified,Workshops,4.36,97.8
+10,Expert_10,PhD,Computer Science,Stanford,27,Professor,34,Cloud Computing,35,797,Quantum Computing,4,Yes,IEEE,Best Paper Award,Java,Cisco Certified,MOOC,4.27,84.2
+11,Expert_11,PhD,Computer Science,Harvard,17,Professor,27,Cybersecurity,121,820,Quantum Computing,6,Yes,AAAI,None,Python,None,Conferences,4.89,84.77
+12,Expert_12,BSc,Computer Science,Harvard,18,Research Scientist,16,Cybersecurity,159,809,Machine Learning,10,No,ACM,Young Innovator,C++,None,Workshops,4.45,96.4
+13,Expert_13,MSc,Computer Science,Stanford,34,Professor,29,Cloud Computing,82,248,Blockchain,4,No,AAAI,None,Python,Cisco Certified,Conferences,4,81.96
+14,Expert_14,BSc,Mechanical Engineering,Stanford,26,Professor,5,Cybersecurity,200,426,Blockchain,9,Yes,AAAI,None,Java,AWS Certified,Workshops,4.73,88.17
+15,Expert_15,PhD,Electrical Engineering,MIT,20,Senior Engineer,34,AI,190,490,Quantum Computing,9,No,AAAI,None,C++,AWS Certified,Conferences,4.3,93
+16,Expert_16,MSc,Electrical Engineering,Stanford,16,Research Scientist,15,AI,130,269,Machine Learning,8,No,ACM,Best Paper Award,Java,AWS Certified,Workshops,4.01,96.64
+17,Expert_17,PhD,Mechanical Engineering,Stanford,28,Professor,27,Cybersecurity,52,540,Machine Learning,3,Yes,IEEE,Young Innovator,C++,AWS Certified,Workshops,4.06,84.09
+18,Expert_18,BSc,Computer Science,Harvard,39,Research Scientist,8,AI,71,301,Quantum Computing,8,Yes,AAAI,Young Innovator,C++,Cisco Certified,Conferences,4.39,98.21
+19,Expert_19,PhD,Computer Science,Stanford,17,Senior Engineer,6,AI,148,357,Machine Learning,4,No,IEEE,Young Innovator,Python,AWS Certified,Workshops,4.82,93.23
+20,Expert_20,MSc,Mechanical Engineering,Harvard,26,Senior Engineer,31,Cloud Computing,146,995,Quantum Computing,6,Yes,ACM,None,Python,AWS Certified,Conferences,4.7,88.21
+21,Expert_21,BSc,Computer Science,Harvard,39,Senior Engineer,25,Cloud Computing,67,724,Quantum Computing,7,Yes,IEEE,Young Innovator,C++,AWS Certified,Workshops,4.89,96.11
+22,Expert_22,MSc,Mechanical Engineering,Harvard,24,Senior Engineer,11,Cloud Computing,109,914,Machine Learning,0,Yes,AAAI,None,Python,Cisco Certified,MOOC,4.44,85.16
+23,Expert_23,MSc,Computer Science,Harvard,7,Professor,16,AI,81,50,Quantum Computing,3,No,AAAI,Best Paper Award,C++,None,Workshops,4.73,84.26
+24,Expert_24,PhD,Mechanical Engineering,Stanford,39,Professor,31,Cloud Computing,60,709,Quantum Computing,5,Yes,IEEE,Best Paper Award,Python,None,Workshops,4.9,97.76
+25,Expert_25,BSc,Mechanical Engineering,Harvard,30,Senior Engineer,15,AI,86,260,Quantum Computing,2,No,ACM,None,Java,Cisco Certified,Conferences,4.38,83.53
+26,Expert_26,BSc,Mechanical Engineering,Stanford,33,Research Scientist,7,AI,103,513,Machine Learning,6,No,AAAI,None,Java,None,Workshops,4.19,89.1
+27,Expert_27,MSc,Computer Science,Harvard,36,Research Scientist,7,Cybersecurity,168,879,Machine Learning,10,No,IEEE,Best Paper Award,Java,None,Conferences,4.26,80.42
+28,Expert_28,BSc,Mechanical Engineering,Stanford,35,Professor,18,AI,181,222,Blockchain,3,Yes,IEEE,Young Innovator,Python,AWS Certified,Workshops,4.38,83.06
+29,Expert_29,BSc,Electrical Engineering,Stanford,24,Senior Engineer,28,AI,77,582,Machine Learning,6,Yes,ACM,None,Python,None,MOOC,4.42,86.12
+30,Expert_30,BSc,Mechanical Engineering,MIT,8,Research Scientist,33,Cybersecurity,155,194,Blockchain,8,Yes,IEEE,None,C++,None,MOOC,4.8,87.68
+31,Expert_31,PhD,Mechanical Engineering,Stanford,29,Professor,19,Cloud Computing,65,424,Quantum Computing,8,Yes,ACM,Young Innovator,Java,Cisco Certified,Workshops,4.72,89.68
+32,Expert_32,PhD,Electrical Engineering,Harvard,39,Professor,20,Cybersecurity,173,560,Blockchain,10,Yes,ACM,Young Innovator,Java,None,MOOC,4.8,98.51
+33,Expert_33,MSc,Mechanical Engineering,Stanford,6,Senior Engineer,12,Cybersecurity,60,802,Quantum Computing,10,No,IEEE,None,Java,AWS Certified,Conferences,4.34,81.6
+34,Expert_34,MSc,Computer Science,Harvard,19,Professor,20,AI,156,820,Quantum Computing,8,Yes,AAAI,Young Innovator,C++,None,Workshops,4.46,94.97
+35,Expert_35,PhD,Mechanical Engineering,Harvard,29,Professor,22,Cloud Computing,37,703,Blockchain,7,No,ACM,Young Innovator,Python,Cisco Certified,Conferences,4.34,80.31
+36,Expert_36,BSc,Electrical Engineering,Harvard,18,Senior Engineer,30,Cybersecurity,115,612,Machine Learning,10,No,AAAI,Young Innovator,Java,None,Conferences,4.13,99.87
+37,Expert_37,MSc,Computer Science,Harvard,10,Professor,30,AI,127,97,Quantum Computing,2,No,AAAI,Best Paper Award,Java,Cisco Certified,Workshops,4.92,96.92
+38,Expert_38,BSc,Electrical Engineering,Harvard,9,Research Scientist,11,Cloud Computing,188,88,Machine Learning,2,Yes,ACM,Young Innovator,C++,AWS Certified,Conferences,4.8,86.39
+39,Expert_39,PhD,Computer Science,Stanford,14,Professor,8,Cloud Computing,64,153,Machine Learning,6,No,ACM,None,Python,None,Workshops,4.5,81.28
+40,Expert_40,PhD,Electrical Engineering,MIT,28,Senior Engineer,31,Cloud Computing,134,172,Quantum Computing,4,Yes,AAAI,None,C++,AWS Certified,Workshops,4.66,88.21
+41,Expert_41,BSc,Mechanical Engineering,Harvard,16,Professor,26,Cybersecurity,19,65,Blockchain,3,Yes,ACM,None,Python,AWS Certified,MOOC,4.2,84.82
+42,Expert_42,BSc,Electrical Engineering,MIT,10,Professor,13,AI,168,328,Blockchain,10,No,AAAI,Best Paper Award,Java,Cisco Certified,MOOC,4.61,92.04
+43,Expert_43,BSc,Electrical Engineering,MIT,33,Professor,27,AI,92,252,Blockchain,6,No,AAAI,None,Java,Cisco Certified,MOOC,4.39,92.45
+44,Expert_44,BSc,Computer Science,Harvard,24,Research Scientist,27,AI,123,688,Quantum Computing,4,Yes,AAAI,None,Python,None,Conferences,4.59,80.9
+45,Expert_45,MSc,Mechanical Engineering,Stanford,23,Professor,33,Cloud Computing,59,345,Machine Learning,0,Yes,IEEE,None,Python,None,MOOC,4.5,97.3
+46,Expert_46,PhD,Electrical Engineering,Stanford,28,Senior Engineer,29,AI,183,113,Quantum Computing,5,No,AAAI,None,Python,None,Workshops,4.67,85.59
+47,Expert_47,PhD,Mechanical Engineering,Stanford,15,Research Scientist,24,AI,135,292,Quantum Computing,8,No,ACM,Young Innovator,C++,None,Conferences,4.35,95.91
+48,Expert_48,BSc,Electrical Engineering,MIT,12,Professor,5,Cybersecurity,80,644,Blockchain,6,Yes,AAAI,Young Innovator,Java,None,Conferences,4.93,91.05
+49,Expert_49,MSc,Mechanical Engineering,Harvard,8,Senior Engineer,6,AI,139,531,Machine Learning,2,No,ACM,Best Paper Award,C++,AWS Certified,Conferences,4.37,83.93
+50,Expert_50,BSc,Electrical Engineering,MIT,19,Professor,34,Cloud Computing,20,404,Quantum Computing,0,Yes,AAAI,None,Java,Cisco Certified,MOOC,4.99,84.34
+51,Expert_51,PhD,Mechanical Engineering,MIT,30,Senior Engineer,11,Cybersecurity,29,949,Quantum Computing,5,Yes,ACM,Best Paper Award,Java,AWS Certified,Conferences,4.22,86.22
+52,Expert_52,BSc,Mechanical Engineering,MIT,20,Senior Engineer,32,Cybersecurity,30,807,Blockchain,1,No,ACM,Best Paper Award,Python,AWS Certified,Workshops,4.92,96.73
+53,Expert_53,MSc,Computer Science,Stanford,9,Professor,33,AI,161,544,Blockchain,1,Yes,ACM,Best Paper Award,Python,AWS Certified,MOOC,4.48,81.8
+54,Expert_54,PhD,Electrical Engineering,Stanford,39,Professor,23,Cloud Computing,33,650,Quantum Computing,2,Yes,ACM,Young Innovator,Java,None,Workshops,4.38,82.39
+55,Expert_55,MSc,Mechanical Engineering,Stanford,22,Research Scientist,33,Cloud Computing,16,226,Machine Learning,9,Yes,ACM,Best Paper Award,C++,AWS Certified,Conferences,4.69,94.52
+56,Expert_56,MSc,Mechanical Engineering,Harvard,22,Research Scientist,5,AI,69,963,Quantum Computing,4,No,ACM,None,Python,None,Conferences,4.26,94.75
+57,Expert_57,BSc,Mechanical Engineering,MIT,38,Senior Engineer,21,Cybersecurity,159,882,Machine Learning,10,Yes,ACM,Best Paper Award,Java,AWS Certified,Workshops,4.63,87.02
+58,Expert_58,BSc,Mechanical Engineering,Harvard,39,Professor,22,AI,18,917,Machine Learning,1,Yes,AAAI,None,Java,Cisco Certified,Workshops,4.31,97.9
+59,Expert_59,BSc,Mechanical Engineering,Harvard,8,Research Scientist,17,Cloud Computing,93,437,Blockchain,1,No,IEEE,Best Paper Award,C++,AWS Certified,Conferences,4.37,93.96
+60,Expert_60,MSc,Mechanical Engineering,MIT,33,Senior Engineer,5,AI,65,331,Quantum Computing,1,No,AAAI,None,C++,AWS Certified,Conferences,4.28,84.95
+61,Expert_61,PhD,Electrical Engineering,Stanford,13,Professor,8,Cybersecurity,190,624,Blockchain,10,Yes,IEEE,None,Python,Cisco Certified,Workshops,4.82,89.33
+62,Expert_62,MSc,Mechanical Engineering,Stanford,28,Senior Engineer,8,Cloud Computing,125,232,Blockchain,0,Yes,IEEE,Best Paper Award,C++,None,Workshops,4.15,86.39
+63,Expert_63,PhD,Electrical Engineering,MIT,34,Professor,7,AI,81,257,Blockchain,7,Yes,ACM,Best Paper Award,Python,AWS Certified,Workshops,4.82,90.59
+64,Expert_64,BSc,Electrical Engineering,Stanford,17,Senior Engineer,23,Cloud Computing,20,496,Machine Learning,10,Yes,IEEE,Best Paper Award,Java,None,Conferences,4.7,84.51
+65,Expert_65,PhD,Mechanical Engineering,Harvard,19,Professor,6,Cybersecurity,36,867,Blockchain,8,Yes,AAAI,None,Java,None,MOOC,4.26,96.15
+66,Expert_66,MSc,Mechanical Engineering,MIT,8,Professor,25,Cybersecurity,85,599,Quantum Computing,6,Yes,IEEE,None,Python,None,MOOC,4.27,90.92
+67,Expert_67,MSc,Electrical Engineering,Stanford,25,Research Scientist,24,Cloud Computing,92,707,Blockchain,9,Yes,AAAI,None,Java,Cisco Certified,Conferences,4.5,88.57
+68,Expert_68,MSc,Computer Science,MIT,30,Senior Engineer,31,Cybersecurity,174,127,Machine Learning,2,No,AAAI,Young Innovator,Python,Cisco Certified,MOOC,4.82,83.19
+69,Expert_69,BSc,Mechanical Engineering,MIT,36,Senior Engineer,18,AI,75,192,Blockchain,7,No,AAAI,Young Innovator,Python,None,Conferences,4.06,86.05
+70,Expert_70,BSc,Computer Science,MIT,40,Senior Engineer,21,AI,57,324,Blockchain,5,No,IEEE,Young Innovator,Java,AWS Certified,Workshops,4.34,95.97
+71,Expert_71,MSc,Electrical Engineering,MIT,19,Professor,7,AI,22,906,Blockchain,0,Yes,AAAI,None,C++,Cisco Certified,Workshops,4.5,84.54
+72,Expert_72,BSc,Computer Science,Harvard,35,Professor,11,Cloud Computing,64,212,Quantum Computing,10,Yes,ACM,None,Python,AWS Certified,Workshops,4.58,84.1
+73,Expert_73,PhD,Mechanical Engineering,Stanford,15,Senior Engineer,22,AI,125,178,Blockchain,1,Yes,AAAI,None,Java,AWS Certified,MOOC,4.31,91.41
+74,Expert_74,MSc,Mechanical Engineering,MIT,32,Professor,27,AI,173,104,Quantum Computing,3,Yes,ACM,Best Paper Award,C++,None,MOOC,4.51,90.17
+75,Expert_75,BSc,Electrical Engineering,Stanford,30,Research Scientist,26,Cloud Computing,138,754,Quantum Computing,1,Yes,ACM,Young Innovator,Python,AWS Certified,Workshops,4.71,87.29
+76,Expert_76,MSc,Electrical Engineering,MIT,29,Professor,11,Cybersecurity,136,788,Blockchain,2,No,AAAI,Young Innovator,C++,Cisco Certified,Workshops,4.79,97.47
+77,Expert_77,PhD,Electrical Engineering,Harvard,17,Professor,14,Cloud Computing,49,794,Blockchain,2,Yes,IEEE,Best Paper Award,Java,Cisco Certified,Conferences,4.82,89.96
+78,Expert_78,BSc,Electrical Engineering,MIT,18,Research Scientist,35,Cybersecurity,85,953,Blockchain,4,Yes,ACM,Young Innovator,C++,AWS Certified,Conferences,4.37,80.69
+79,Expert_79,BSc,Computer Science,Harvard,21,Senior Engineer,18,Cybersecurity,78,373,Quantum Computing,1,Yes,ACM,None,Java,None,Conferences,4.67,89.44
+80,Expert_80,PhD,Mechanical Engineering,Stanford,10,Senior Engineer,32,AI,151,551,Quantum Computing,5,Yes,ACM,None,Java,AWS Certified,MOOC,4.74,81.93
+81,Expert_81,BSc,Electrical Engineering,Stanford,9,Professor,18,Cybersecurity,137,358,Machine Learning,9,Yes,AAAI,Best Paper Award,Java,None,MOOC,4.72,83.95
+82,Expert_82,BSc,Computer Science,Harvard,24,Research Scientist,19,Cloud Computing,80,424,Quantum Computing,9,Yes,ACM,None,Python,AWS Certified,MOOC,4.88,91.35
+83,Expert_83,MSc,Electrical Engineering,Harvard,18,Research Scientist,17,Cybersecurity,166,723,Machine Learning,10,No,ACM,Young Innovator,Java,Cisco Certified,Conferences,4.74,87.22
+84,Expert_84,PhD,Computer Science,Stanford,15,Senior Engineer,21,Cybersecurity,85,841,Machine Learning,4,No,AAAI,Young Innovator,Java,None,Workshops,4.65,92.34
+85,Expert_85,PhD,Mechanical Engineering,MIT,16,Research Scientist,10,AI,85,937,Machine Learning,2,No,AAAI,Young Innovator,Python,AWS Certified,Conferences,4.18,99.84
+86,Expert_86,BSc,Computer Science,Harvard,33,Professor,5,Cloud Computing,86,341,Blockchain,0,Yes,AAAI,None,Java,Cisco Certified,MOOC,4.35,92.91
+87,Expert_87,MSc,Mechanical Engineering,Stanford,36,Senior Engineer,25,Cybersecurity,67,292,Blockchain,10,Yes,IEEE,Best Paper Award,Python,None,MOOC,4.45,92.98
+88,Expert_88,BSc,Computer Science,Harvard,21,Research Scientist,6,Cybersecurity,161,515,Quantum Computing,4,No,AAAI,None,Java,AWS Certified,Workshops,4.81,93.41
+89,Expert_89,PhD,Electrical Engineering,Stanford,26,Professor,27,AI,112,333,Blockchain,6,No,IEEE,None,Java,None,Conferences,4.52,83.73
+90,Expert_90,PhD,Mechanical Engineering,MIT,19,Senior Engineer,27,AI,111,807,Quantum Computing,7,No,AAAI,Young Innovator,Python,Cisco Certified,Workshops,4.93,98.74
+91,Expert_91,MSc,Electrical Engineering,Harvard,34,Research Scientist,9,Cybersecurity,35,176,Quantum Computing,6,No,AAAI,Best Paper Award,C++,Cisco Certified,MOOC,4.53,99.69
+92,Expert_92,MSc,Computer Science,MIT,38,Professor,21,Cloud Computing,12,909,Machine Learning,7,Yes,ACM,None,Python,None,Conferences,4.65,91.45
+93,Expert_93,PhD,Computer Science,Harvard,33,Professor,24,Cybersecurity,46,945,Quantum Computing,3,Yes,ACM,Best Paper Award,Java,AWS Certified,Workshops,4.67,81.49
+94,Expert_94,BSc,Electrical Engineering,MIT,24,Research Scientist,22,Cloud Computing,37,920,Quantum Computing,6,No,IEEE,Best Paper Award,Python,None,MOOC,4.17,81.81
+95,Expert_95,PhD,Computer Science,Stanford,29,Senior Engineer,29,Cybersecurity,20,775,Machine Learning,7,No,IEEE,Young Innovator,C++,None,MOOC,4.11,85.57
+96,Expert_96,PhD,Electrical Engineering,Harvard,12,Professor,18,AI,45,460,Blockchain,10,No,IEEE,Best Paper Award,C++,AWS Certified,MOOC,4.86,95.71
+97,Expert_97,MSc,Computer Science,Harvard,22,Senior Engineer,25,AI,145,630,Blockchain,0,No,ACM,None,C++,None,Workshops,4.84,80.71
+98,Expert_98,BSc,Computer Science,Stanford,25,Professor,19,Cloud Computing,58,826,Blockchain,4,No,ACM,Best Paper Award,C++,AWS Certified,Conferences,4.34,99.82
+99,Expert_99,MSc,Mechanical Engineering,Harvard,23,Senior Engineer,18,Cloud Computing,128,345,Blockchain,9,Yes,IEEE,None,Python,None,Workshops,4.4,91.59
+100,Expert_100,BSc,Mechanical Engineering,MIT,17,Senior Engineer,17,Cybersecurity,90,554,Machine Learning,4,No,AAAI,None,Python,None,Workshops,4.27,81.21

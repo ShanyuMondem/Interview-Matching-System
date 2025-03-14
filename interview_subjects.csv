@@ -1,0 +1,51 @@
+Interview_Job_Role,Interview_Subject_Domain,Interview_Subfields_Specializations,Interview_Key_Topics,Interview_Core_Concepts,Interview_Emerging_Trends,Interview_Required_Technical_Skills,Interview_Specific_Technologies,Interview_Objective,Interview_Level_of_Expertise
+AI Researcher,Data Science,Machine Learning,Optimization,Graph Theory,Explainable AI,Python,TensorFlow,Gauge Innovation Capacity,Expert
+AI Researcher,Computer Science,Algorithm Design,Optimization,Statistical Methods,AutoML,SQL,Hadoop,Evaluate Expertise,Intermediate
+Data Scientist,Data Science,Machine Learning,Optimization,Graph Theory,AutoML,TensorFlow,TensorFlow,Assess Practical Skills,Beginner
+AI Researcher,Computer Science,Algorithm Design,Deep Learning,Graph Theory,AutoML,TensorFlow,Hadoop,Assess Practical Skills,Intermediate
+AI Researcher,Computer Science,Machine Learning,Regression Analysis,Graph Theory,AutoML,Python,AWS,Gauge Innovation Capacity,Intermediate
+Data Scientist,Data Science,Algorithm Design,Regression Analysis,Statistical Methods,Explainable AI,TensorFlow,AWS,Assess Practical Skills,Beginner
+AI Researcher,Data Science,Data Analysis,Deep Learning,Graph Theory,AutoML,TensorFlow,AWS,Gauge Innovation Capacity,Intermediate
+Data Scientist,AI & ML,Algorithm Design,Deep Learning,Graph Theory,Quantum Computing,SQL,Hadoop,Evaluate Expertise,Beginner
+AI Researcher,Computer Science,Data Analysis,Deep Learning,Statistical Methods,AutoML,TensorFlow,TensorFlow,Assess Practical Skills,Intermediate
+AI Researcher,Data Science,Algorithm Design,Optimization,Statistical Methods,Explainable AI,TensorFlow,TensorFlow,Evaluate Expertise,Intermediate
+Data Scientist,Computer Science,Algorithm Design,Optimization,Graph Theory,Explainable AI,Python,Hadoop,Evaluate Expertise,Expert
+Software Engineer,AI & ML,Data Analysis,Regression Analysis,Statistical Methods,Quantum Computing,Python,TensorFlow,Assess Practical Skills,Expert
+AI Researcher,Computer Science,Data Analysis,Optimization,Neural Networks,Explainable AI,TensorFlow,TensorFlow,Gauge Innovation Capacity,Expert
+AI Researcher,Data Science,Algorithm Design,Optimization,Graph Theory,AutoML,SQL,Hadoop,Evaluate Expertise,Expert
+AI Researcher,AI & ML,Data Analysis,Deep Learning,Statistical Methods,Explainable AI,TensorFlow,AWS,Evaluate Expertise,Expert
+Data Scientist,Computer Science,Algorithm Design,Optimization,Graph Theory,Explainable AI,TensorFlow,Hadoop,Assess Practical Skills,Expert
+Software Engineer,AI & ML,Machine Learning,Deep Learning,Graph Theory,AutoML,SQL,Hadoop,Assess Practical Skills,Beginner
+AI Researcher,AI & ML,Data Analysis,Regression Analysis,Neural Networks,Quantum Computing,TensorFlow,TensorFlow,Assess Practical Skills,Beginner
+AI Researcher,Computer Science,Data Analysis,Regression Analysis,Statistical Methods,Quantum Computing,SQL,TensorFlow,Evaluate Expertise,Expert
+Data Scientist,AI & ML,Algorithm Design,Deep Learning,Neural Networks,Quantum Computing,SQL,Hadoop,Gauge Innovation Capacity,Beginner
+Software Engineer,AI & ML,Data Analysis,Optimization,Neural Networks,Quantum Computing,Python,AWS,Evaluate Expertise,Intermediate
+Data Scientist,Computer Science,Data Analysis,Regression Analysis,Graph Theory,Quantum Computing,SQL,AWS,Evaluate Expertise,Intermediate
+AI Researcher,Computer Science,Machine Learning,Optimization,Statistical Methods,Explainable AI,TensorFlow,Hadoop,Evaluate Expertise,Intermediate
+Software Engineer,AI & ML,Data Analysis,Deep Learning,Statistical Methods,Explainable AI,Python,Hadoop,Assess Practical Skills,Intermediate
+AI Researcher,AI & ML,Algorithm Design,Regression Analysis,Statistical Methods,Quantum Computing,Python,TensorFlow,Evaluate Expertise,Beginner
+Software Engineer,Computer Science,Machine Learning,Optimization,Graph Theory,Explainable AI,SQL,Hadoop,Gauge Innovation Capacity,Expert
+Software Engineer,AI & ML,Machine Learning,Optimization,Statistical Methods,Quantum Computing,TensorFlow,AWS,Assess Practical Skills,Intermediate
+Data Scientist,Data Science,Machine Learning,Optimization,Neural Networks,Quantum Computing,Python,TensorFlow,Gauge Innovation Capacity,Beginner
+Data Scientist,AI & ML,Machine Learning,Optimization,Graph Theory,Quantum Computing,Python,Hadoop,Evaluate Expertise,Expert
+AI Researcher,AI & ML,Data Analysis,Optimization,Neural Networks,AutoML,Python,TensorFlow,Evaluate Expertise,Beginner
+Software Engineer,Computer Science,Data Analysis,Deep Learning,Graph Theory,Explainable AI,Python,TensorFlow,Evaluate Expertise,Expert
+Data Scientist,Data Science,Data Analysis,Deep Learning,Neural Networks,Explainable AI,TensorFlow,AWS,Assess Practical Skills,Intermediate
+Software Engineer,Data Science,Data Analysis,Deep Learning,Graph Theory,Quantum Computing,TensorFlow,Hadoop,Evaluate Expertise,Intermediate
+Software Engineer,AI & ML,Data Analysis,Regression Analysis,Neural Networks,AutoML,TensorFlow,TensorFlow,Evaluate Expertise,Intermediate
+Data Scientist,AI & ML,Data Analysis,Deep Learning,Graph Theory,AutoML,SQL,Hadoop,Assess Practical Skills,Beginner
+Data Scientist,Data Science,Machine Learning,Regression Analysis,Neural Networks,Quantum Computing,TensorFlow,AWS,Evaluate Expertise,Expert
+AI Researcher,Data Science,Machine Learning,Deep Learning,Statistical Methods,Explainable AI,SQL,AWS,Evaluate Expertise,Beginner
+Data Scientist,Computer Science,Data Analysis,Deep Learning,Graph Theory,Quantum Computing,SQL,AWS,Evaluate Expertise,Intermediate
+Software Engineer,AI & ML,Machine Learning,Optimization,Statistical Methods,AutoML,TensorFlow,Hadoop,Assess Practical Skills,Beginner
+AI Researcher,Computer Science,Machine Learning,Regression Analysis,Neural Networks,AutoML,TensorFlow,Hadoop,Evaluate Expertise,Intermediate
+Software Engineer,AI & ML,Machine Learning,Optimization,Statistical Methods,Explainable AI,Python,AWS,Assess Practical Skills,Beginner
+Data Scientist,Data Science,Data Analysis,Optimization,Neural Networks,AutoML,SQL,AWS,Gauge Innovation Capacity,Intermediate
+Data Scientist,Computer Science,Data Analysis,Optimization,Graph Theory,Explainable AI,TensorFlow,TensorFlow,Evaluate Expertise,Expert
+AI Researcher,Computer Science,Machine Learning,Optimization,Neural Networks,AutoML,TensorFlow,TensorFlow,Evaluate Expertise,Intermediate
+AI Researcher,Computer Science,Machine Learning,Optimization,Statistical Methods,AutoML,SQL,Hadoop,Gauge Innovation Capacity,Expert
+Software Engineer,Computer Science,Data Analysis,Optimization,Graph Theory,Quantum Computing,SQL,AWS,Evaluate Expertise,Expert
+Data Scientist,Computer Science,Machine Learning,Regression Analysis,Graph Theory,Quantum Computing,Python,TensorFlow,Gauge Innovation Capacity,Expert
+AI Researcher,Data Science,Algorithm Design,Regression Analysis,Graph Theory,Explainable AI,TensorFlow,AWS,Evaluate Expertise,Beginner
+Data Scientist,AI & ML,Machine Learning,Deep Learning,Neural Networks,Explainable AI,Python,Hadoop,Gauge Innovation Capacity,Expert
+Software Engineer,Data Science,Data Analysis,Deep Learning,Graph Theory,Explainable AI,TensorFlow,Hadoop,Gauge Innovation Capacity,Beginner
